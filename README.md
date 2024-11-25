@@ -23,6 +23,8 @@ BlueSky Shell is a command-line interface (CLI) tool that allows you to interact
 
 ## Usage
 
+![Demo](assets/demo.gif)
+
 - Open the application
 
   ```sh
